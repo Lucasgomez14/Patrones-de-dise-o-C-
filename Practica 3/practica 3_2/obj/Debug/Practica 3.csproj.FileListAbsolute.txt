@@ -1,0 +1,6 @@
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\bin\Debug\Practica 3.exe.config
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\bin\Debug\Practica 3.exe
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\bin\Debug\Practica 3.pdb
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\obj\Debug\Practica 3.csprojResolveAssemblyReference.cache
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\obj\Debug\Practica 3.exe
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 3\Practica 3\practica 3_2\obj\Debug\Practica 3.pdb

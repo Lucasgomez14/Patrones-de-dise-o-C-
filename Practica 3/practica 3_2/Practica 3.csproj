@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>practica_3_2</RootNamespace>
+    <AssemblyName>Practica 3</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Coleccionables\Cola.cs" />
+    <Compile Include="Coleccionables\Coleccionable.cs" />
+    <Compile Include="Coleccionables\ColeccionMultiple.cs" />
+    <Compile Include="Coleccionables\Conjunto.cs" />
+    <Compile Include="Coleccionables\Diccionario.cs" />
+    <Compile Include="Coleccionables\Pila.cs" />
+    <Compile Include="comparables\Alumno.cs" />
+    <Compile Include="comparables\ClaveValor.cs" />
+    <Compile Include="comparables\Comparable.cs" />
+    <Compile Include="comparables\Numero.cs" />
+    <Compile Include="comparables\Persona.cs" />
+    <Compile Include="comparables\Vendedor.cs" />
+    <Compile Include="factory\FabricaDeAlumnos.cs" />
+    <Compile Include="factory\FabricaDeComparables.cs" />
+    <Compile Include="factory\FabricaDeNumeros.cs" />
+    <Compile Include="factory\FabricaDeVendedores.cs" />
+    <Compile Include="GeneradorDeDatosAleatorios.cs" />
+    <Compile Include="Iterator\Iterable.cs" />
+    <Compile Include="Iterator\IteradorColayPila.cs" />
+    <Compile Include="Iterator\IteradorColecciones.cs" />
+    <Compile Include="Iterator\IteradorConjunto.cs" />
+    <Compile Include="Iterator\IteradorDiccionario.cs" />
+    <Compile Include="LectorDeDatos.cs" />
+    <Compile Include="observer\Gerente.cs" />
+    <Compile Include="observer\Observado.cs" />
+    <Compile Include="observer\Observador.cs" />
+    <Compile Include="observer\ObservadorGerente.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="strategy\Comparacion.cs" />
+    <Compile Include="strategy\CompararPorDni.cs" />
+    <Compile Include="strategy\CompararPorLegajo.cs" />
+    <Compile Include="strategy\CompararPorNombre.cs" />
+    <Compile Include="strategy\CompararPorPromedio.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Iterator" />
+    <Folder Include="factory" />
+    <Folder Include="Coleccionables" />
+    <Folder Include="comparables" />
+    <Folder Include="strategy" />
+    <Folder Include="observer" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

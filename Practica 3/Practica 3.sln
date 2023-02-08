@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicios factory", "Ejercicios 5-12\ejercicios factory.csproj", "{BDBF967D-8046-4F1A-A0BE-53B5F5E7649D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 3", "practica 3_2\Practica 3.csproj", "{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBF967D-8046-4F1A-A0BE-53B5F5E7649D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBF967D-8046-4F1A-A0BE-53B5F5E7649D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBF967D-8046-4F1A-A0BE-53B5F5E7649D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBF967D-8046-4F1A-A0BE-53B5F5E7649D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBC8218-E9B5-4CDF-B8A2-B6704A72C108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
