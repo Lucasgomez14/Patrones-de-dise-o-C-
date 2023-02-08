@@ -1,0 +1,6 @@
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\obj\Debug\ejercicio 14-19.csprojResolveAssemblyReference.cache
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\bin\Debug\ejercicio 14-19.exe.config
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\bin\Debug\ejercicio 14-19.exe
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\bin\Debug\ejercicio 14-19.pdb
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\obj\Debug\ejercicio 14-19.exe
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 1\Practica 1\practica 1\ejercicio 14-20\obj\Debug\ejercicio 14-19.pdb

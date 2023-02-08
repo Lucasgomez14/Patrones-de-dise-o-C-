@@ -1,0 +1,5 @@
+En este bloc de notas, le comento que decidí dividir toda la practica en 3 proyectos para poder comprender mejor el funcionamiento de esta. Estos 3 proyectos se separan de la siguiente manera:
+
+El primero, desarrolla los ejercicios del 1 al 10
+El segundo, desarolla los ejercicios del 11 al 14(Con todas las clases e interfaces anteriores)
+El tercero, desarolla los ejercicios del 14 al 19(Con todas las clases e interfaces anteriores)
