@@ -1,0 +1,12 @@
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.exe.config
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.exe
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.pdb
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.csprojResolveAssemblyReference.cache
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.exe
+E:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.pdb
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.exe.config
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.exe
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\bin\Debug\Ejercicios 1-5.pdb
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.csprojResolveAssemblyReference.cache
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.exe
+G:\facultad\Tercer año\Primer cuatrimestre\metodologías de programación I\clase 2\Practica 2\Practica 2\obj\Debug\Ejercicios 1-5.pdb
