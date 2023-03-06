@@ -11,4 +11,4 @@ La actividad 3 se trata sobre los patrones de diseño Factory Method y Observer
 
 La actividad 4 se trata sobre los patrones de diseño Adapter y Decorator
 
-La actividad 5 se trata sobre los patrones de diseño Factory Proxy y Command
+La actividad 5 se trata sobre los patrones de diseño Proxy y Command
